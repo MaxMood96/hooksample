@@ -4,3 +4,4 @@ CodeChat >= 1.8.1
 sphinx >= 2
 # These docs use the ReadTheDocs Sphinx theme.
 sphinx-rtd-theme
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
